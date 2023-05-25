@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Juan Martín</h1>
-<h3 align="center">I'm a self made computing and IT student, currently attending SoyHenry for the Full Stack Web Developer course.</h3>
 
 - 📫 How to reach me **juanmartinmonasterio@gmail.com**
 
